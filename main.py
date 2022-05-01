@@ -18,6 +18,7 @@ if __name__ == '__main__':
 
 
 x = int(input('Введите число'))
-print('YO!!!')
+print('YO!!!') ## это я пофану
+
 whatssUp(x)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
