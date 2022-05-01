@@ -18,6 +18,6 @@ if __name__ == '__main__':
 
 
 x = int(input('Введите число'))
-
+print('YO!!!')
 whatssUp(x)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
