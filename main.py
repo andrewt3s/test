@@ -10,7 +10,7 @@ def print_hi(name):
 
 def whatssUp():
     for _ in range(125):
-        print('WAZZZZUP')
+        print('WAZZZZUP') ## so wossuuppp
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
