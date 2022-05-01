@@ -8,7 +8,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
-def whatssUp():
+def whatssUp(x):
     for _ in range(125):
         print('WAZZZZUP') ## so wossuuppp
 
@@ -16,5 +16,8 @@ def whatssUp():
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-whatssUp()
+
+x = int(input('Введите число'))
+
+whatssUp(x)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
