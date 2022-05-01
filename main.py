@@ -9,7 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 def whatssUp():
-    for _ in range(10):
+    for _ in range(20):
         print('WAZZZZUP')
 
 # Press the green button in the gutter to run the script.
